@@ -1,7 +1,7 @@
 # Coursera-certificates
 Links to my coursera certificates:  
 
-Deep Learning, a 5-course specialization by deeplearning   
+Deep Learning, a 5-course specialization by deeplearning.ai  
 https://www.coursera.org/account/accomplishments/specialization/T4XA2WS3NTK4  
 
 Applied Data Science with Python, a 5-course specialization by University of Michigan  
